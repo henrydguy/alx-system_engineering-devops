@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+x /path/to/file
+chmod a+x path/to/file
